@@ -2,7 +2,7 @@
 
 A Demo of some interactive prompts using the Ops Platform.
 
-This Op was generated with `ops init`. Have a look at [`demo.js`](./demo.js) and the examples below to see how you can leverage the `@cto.ai/sdk` to build ops.
+This Op was generated with `ops init`. Have a look at [`demo.js`](https://github.com/cto-ai/hello-world/blob/master/demo.js) and the examples below to see how you can leverage the `@cto.ai/sdk` to build ops.
 
 ## Table of Contents
 

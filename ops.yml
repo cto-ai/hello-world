@@ -1,7 +1,6 @@
 version: "1"
-ops:
-  - name: # Unique identifier for your op (required)
-      hello-world
+commands:
+    name: hello-world:1.0.0
     description: # Short description for what your op does (required)
       Demo of Op Interactivity
     public: # Determines whether this version of the op is visible to other people

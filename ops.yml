@@ -1,6 +1,6 @@
 version: "1"
 commands:
-  - name: hello-world:1.0.1
+  - name: hello-world:1.0.2
     description: # Short description for what your op does (required)
       Demo of Op Interactivity
     public: # Determines whether this version of the op is visible to other people
@@ -8,8 +8,6 @@ commands:
     sourceCodeURL: "https://github.com/cto-ai/hello-world"
     run: # Command that is executed when op is started ("npm start", "./start_script.sh", etc.) (required)
       node /ops/index.js
-    mountCwd: # If set to `true`, binds the host's current working directory to `/cwd`; default value: `false` - working directory `/ops`
-      false
     mountHome: # If set to `true`, binds the host's home directory to `/root`; default value: `false`
       false
     port: # Map ports for your op container

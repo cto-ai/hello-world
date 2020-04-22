@@ -1,3 +1,5 @@
+![](https://cto.ai/static/oss-banner.png)
+
 # 🚀 CTO.ai - Official Op - Hello World 🚀
 
 A Demo of some interactive prompts using the Ops Platform.
